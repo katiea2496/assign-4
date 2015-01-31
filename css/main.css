@@ -1,0 +1,152 @@
+html  {
+  background-color: #d2c6b8;
+}
+
+body {
+  margin: 0 0 0 0.5em;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 40px;
+  font-style: normal; /* normal */
+  font-family: 'Bevan', cursive;
+  text-align: center;
+  padding: 0 1em 0 1em;
+  margin: 0 0.5em 0 0.5em;
+}
+
+nav ol a {
+
+  display: ;
+  text-align: center;
+  padding: 0.75em;
+  background-color: maroon;
+  color: #fff;
+  text-decoration: none;
+  border: 5px;
+  border-radius: 4px;
+  width: 3em;
+}
+
+nav li {
+  display: inline-block;
+}
+
+header {
+  background-color: gray;
+  padding: 0 1em 1em 1em;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 20px;
+  font-style: bold; /* normal, bold */
+  font-family: 'Bevan', cursive;
+  color: gray
+
+
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 15px;
+  font-style: bold; /* normal, bold */
+  font-family: 'Bevan', cursive;
+  color: gray
+
+}
+
+.planet {
+  color: #fff;
+}
+blockquote {
+  text-align: left;
+  font-size: 20px;
+  font-style: italic; /* normal, italic */
+
+}
+
+.name {
+  text-align: right;
+  font-size: 10px;
+  font-style: italic; /* normal, italic */
+  color: gray;
+}
+
+ul {
+  list-style-type: lower-roman;
+  padding: 10px;
+  margin: 0 0 0 2em;
+  line-height: 1.5;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 10px;
+  font-style: italic; /* normal, italic */
+}
+
+figure {
+  border: 1px solid gray;
+  border-radius: 0.5em;
+  padding: 2em 2em 1em 0.75em;
+}
+
+img {
+  width: 100%;
+  padding: 0.75em 0.75em 1em 0.75em;
+}
+dl {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1;
+}
+
+data {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1;
+}
+p {
+  text-indent: 50px;
+}
+
+.cite {
+  list-style-type: circle;
+}
+
+a:hover {
+  color: white;
+}
+
+footer {
+  background-color: gray;
+  padding: 0 0 0 0.5em;
+
+}
+
+footer h2 {
+  color: #d2c6b8;
+  font-weight: normal;
+  font-size: 15px;
+  font-style: bold; /* normal, bold */
+  font-family: 'Bevan', cursive;
+  margin: 0
+
+}
+
+footer li {
+  list-style-type: disc;
+  padding: 0;
+  line-height: 1;
+}
+
+.maroon {
+  color: maroon;
+}
